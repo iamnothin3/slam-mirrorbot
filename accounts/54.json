@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "intrepid-craft-335715",
+  "private_key_id": "11587ebb271264b3fa2b73f51fa1409faf9a9d29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkB/eCxVLrVw/C\nslFli5F/XOU2I2NofttpJt+cgxK9g7J77EKDbJKDl6T3dfyN/r58X5cqLKs0eao0\nud0ch9Za98mo4Ng2bsnujsfI47gdDCZ8XXt8zWz2ARQl1zMIsFteHvvehLyWzjHX\n+fwVhrh+WQ6JY9FBoIbjnr25EE986u8QDAbbWgO+GDCcvozDgeuf6uJ/KKJhbb3l\nNyahrYsAvnrWjzOQEJ74ky1Ien13w8Zl8xhy1WKBq7FJHiUibOR36ViW6onzQ/J9\nAbc/v65sdeGIph7rF7s2d+q2chiWiKKGiQIxsXpu8bJpl1ZdXwnYyU5Y31FejU1y\njJrlYerXAgMBAAECggEAMQvFoMrwWs4PBcF04HJ0iQBiDJLv/rnKV4OU9QT8Mubw\nrNbUN5BSsxsa0F8AQ0pXjkjBKsEQ0eiZQ132wPw2jrpdFYXG+2444Ka1MfBI2XaT\nkIxK0z0cAo2Y18rBn0zPWh8v7Vx/c7BF6D5MihS/+e0Nw19E0ujEGpE6HWP0tNkr\nPF9KWR4t3ohsUTKQuNwxLL9uyCSP+PF18Np/eNG8CmQDIRdhU9rgjD0uyGE3Nk7D\nwhQiahRb/ZSymdGS/3suzLv+DhtESqxa31CR0UdEo7pJCuFkaYBBu8b/prwjBweu\nF9VkHk1VU0EQJpA+zhADelEXzJ50Zan6PFe37N4AAQKBgQD2+b8V2RbHUwbQJzhP\nQN/vED0TuuK0PxpwQWfhuwBiA9d9DrPTpY054QIUv4YaW8+fPkzm0n68+X4OObYJ\nh0MnTLqiPU+OJAX5Ayk4WJqnzFIA+rKk3VFrC9+kcEP2xBMuXSpUj/4wDhYCyzLQ\nJqZay8zwSlD4OYh+BB0wqYVoAQKBgQDsXQK4xj+fRlc1kbsXPKjHORNNB+rU5iZI\nqHNwt98NKaaHIb7aoHwM6tvdckodhjJx0X6X8Ul1135qIjft909BPQCa2imdQ3Y/\nAMHPXBU6Jh3Vay7EiOUzeJoZ21LbvC4rPDG2SCz6KvwrRE5XwHoubV//XqRp7GKr\nSOpAmQeS1wKBgA9l5sn/7PGkdYpIx7P5QXzwMD6oqjW+sXFKQqXKOO3je23qmr+Z\nVMLFCpIslrnR+5HcGoNRoGE71OYiJv1VF5S9re0rkWg1SsIJtmoy7AGGNZ6mArlQ\nqyDXbqwb68DY3LFJUbhP+fMZDbpC3PopTrnedvqMR5wSSjZBH2jHSPABAoGAfud1\nVaXDdQ28NxvWeqRr7gMb9MjicYpcVbhzurpOPO/25CjfItz1na3ffGcnmfB6Vxfm\nw0eebHHWAr/6jX6yA9Hv6DRoEXKuIyeR53aGQyFB9VtF0em6Pcdr3aQfObEwjLAV\n9MuNsoevur9C3OSP9StuVlsHJYPwegx9EU/YfCMCgYEA3KNIrb2fZ8EUvPWn3Yoe\nLazoWIm2zvLOs8RwE6BfNIBMqon686wfFgpfqJ/FEA4TlPBI1JfudeiH1mrLDA6k\nrRUO+UxfD6i+u3SOVegKayPF18xI9RgEcjJ2knI/WV1e0I7I59KjDkD6/gLhEZqp\nOyAU98Scue47MdupSRkCBWw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-5k163x71pe-83ycwg2lu7rujm2@intrepid-craft-335715.iam.gserviceaccount.com",
+  "client_id": "110240034655547982281",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-5k163x71pe-83ycwg2lu7rujm2%40intrepid-craft-335715.iam.gserviceaccount.com"
+}
